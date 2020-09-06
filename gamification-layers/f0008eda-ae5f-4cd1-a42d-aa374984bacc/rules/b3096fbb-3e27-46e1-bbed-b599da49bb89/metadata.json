@@ -1,0 +1,1 @@
+{"id":"b3096fbb-3e27-46e1-bbed-b599da49bb89","name":"nnn","triggers":[{"type":"ACTION","event":"REWARD_GRANTED","recurrent":false,"parameters":["9c8305a3-af56-4d87-a86d-233ce4395bb6"],"cronjob":"* * * * *","interval":10,"reward":"9c8305a3-af56-4d87-a86d-233ce4395bb6"}],"criteria":{},"actions":[]}

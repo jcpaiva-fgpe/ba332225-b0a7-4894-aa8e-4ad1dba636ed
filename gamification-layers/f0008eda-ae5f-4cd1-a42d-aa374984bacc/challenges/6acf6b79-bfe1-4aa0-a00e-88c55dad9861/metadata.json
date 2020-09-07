@@ -1,1 +1,1 @@
-{"id":"6acf6b79-bfe1-4aa0-a00e-88c55dad9861","name":"Badgy","description":"yyy8","refs":[],"mode":"NORMAL","mode_parameters":["777"],"locked":false,"hidden":true,"difficulty":"BEGINNER","children":[]}
+{"id":"6acf6b79-bfe1-4aa0-a00e-88c55dad9861","name":"Badgy","description":"yyy8","refs":["44a49e3c-437b-4050-9fec-20fad360a2ae"],"mode":"NORMAL","mode_parameters":["777"],"locked":false,"hidden":true,"difficulty":"BEGINNER","children":[]}
